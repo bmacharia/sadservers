@@ -1,6 +1,6 @@
 # Sadservers
 
-This repository will house my notes and thought process as I Troubleshoot Linux Servers with a specific problem and fix
+This repository will house my notes and thought process as I Troubleshoot Linux Servers with a specific problem and the fix I implemented
 
 Each Folder in this Repository will be named `scenario` followed by a number.
 
